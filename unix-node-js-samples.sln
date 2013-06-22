@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D71FA93E-3AB7-4ACE-9BF6-0E7AD0FD60C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressHelloWorld", "ExpressHelloWorld\ExpressHelloWorld.csproj", "{68B6450B-D269-4A2C-9C72-34922EE0F056}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{D71FA93E-3AB7-4ACE-9BF6-0E7AD0FD60C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D71FA93E-3AB7-4ACE-9BF6-0E7AD0FD60C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D71FA93E-3AB7-4ACE-9BF6-0E7AD0FD60C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68B6450B-D269-4A2C-9C72-34922EE0F056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B6450B-D269-4A2C-9C72-34922EE0F056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B6450B-D269-4A2C-9C72-34922EE0F056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B6450B-D269-4A2C-9C72-34922EE0F056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
