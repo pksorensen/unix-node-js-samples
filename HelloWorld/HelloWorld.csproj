@@ -64,6 +64,7 @@
     <Content Include="app.min.js">
       <DependentUpon>app.ts</DependentUpon>
     </Content>
+    <Content Include="Scripts\typings\node-azure\azure.d.ts" />
     <Content Include="Scripts\typings\node\node-0.8.8.d.ts" />
     <Content Include="Scripts\typings\node\node.d.ts" />
   </ItemGroup>
