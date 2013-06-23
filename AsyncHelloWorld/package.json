@@ -1,0 +1,10 @@
+﻿{
+  "name": "async-hello-world",
+  "description": "hello world async app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+	"async": ">= 0.0.1"
+    }
+}

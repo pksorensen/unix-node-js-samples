@@ -1,8 +1,8 @@
+/// <reference path="./Scripts/typings/node/node.d.ts" />
 /// <reference path="./Scripts/typings/express/express.d.ts" />
 
 import express = module("express");
-
-var app = express();
+var app: ExpressApplication = express();
 
 
 app.get('/testUrl', function (req, res) {
@@ -13,6 +13,7 @@ app.get('/testUrl', function (req, res) {
 app.get('/testUrl/:folder', function (req, res) {
     console.log('testing folder ' + req.params.folder);
     res.send(200, 'ok');
+    
 
 });
 

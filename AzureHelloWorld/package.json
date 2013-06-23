@@ -1,0 +1,11 @@
+﻿{
+  "name": "azure-hello-world",
+  "description": "Azure Test App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+	"async": "~0.2",
+    "mime": "~1.2"
+    }
+}
